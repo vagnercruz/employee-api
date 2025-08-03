@@ -1,0 +1,25 @@
+{
+  "name": "employee-api",
+  "version": "1.0.0",
+  "description": "Aplicação CRUD API em Node.js que pode alimentar todos os frameworks do mercado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vagnercruz/employee-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vagnercruz/employee-api/issues"
+  },
+  "homepage": "https://github.com/vagnercruz/employee-api#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "eslint": "^9.32.0",
+    "globals": "^16.3.0"
+  }
+}
